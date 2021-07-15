@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alikhandkk81
-- 👀 I’m interested in Programming,Books,Intertet,gaming
+- 👀 I’m interested in Programming,Books,Internet,gaming
 - 🌱 I’m currently learning Many things😁
-- 💞️ I’m looking to collaborate on frontend,backend,Ethical hacking
+- 💞️ I’m looking to collaborate on frontend,backend,Security Researching
 - 📫 How to reach me -> blacksnackspartar@gmail.com
 
 <!---
